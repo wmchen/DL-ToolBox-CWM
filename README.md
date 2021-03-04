@@ -8,9 +8,9 @@ Email: wm_chen@yeah.net
 
 ## Introduction
 
-The motivation of me to start this project is owing to the difficulty for some existing senior packages of PyTorch to adapt the new graphics card 'GeForce RTX 3090'.
+The motivation of me to start this project is owing to the difficulty for some existing senior packages of PyTorch to adapt the new graphics card 'GeForce RTX 3090'. I just use the original code to build the project. And can compile on 'GeForce RTX 3090' successfully.
 
-I just use the original code to build the project. And can compile on 'GeForce RTX 3090' successfully.
+This project can be considered as a senior substitute of OpenMMLab projects due to current OpenMMLab projects can not compile on 'GeForce RTX 3090' successfully.
 
 Still updating!
 
@@ -56,7 +56,7 @@ Anaconda (recommended)
 - PyTorch
 
   ```sh
-  pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cu110/torch_nightly.html
+pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cu110/torch_nightly.html
   ```
 
   or
@@ -101,6 +101,13 @@ See in [get_pretrained_model](https://github.com/Wei-ming-Chen/DL-ToolBox-CWM/bl
 ## Acknowledgement
 
 DL-ToolBox-CWM is an open project which is built to solve the failure of some senior package compiling on the new graphics card 'GeForce RTX 3090'. I sincerely appreciate the great work of OpenMMLab and the great researchers such as Kai Chen, Jintao Lin and so on.
+
+
+
+## Reference projects
+
+- [MMCV](https://github.com/open-mmlab/mmcv): OpenMMLab foundational library for computer vision.
+- [MMClassification](https://github.com/open-mmlab/mmclassification): OpenMMLab image classification toolbox and benchmark.
 
 
 
