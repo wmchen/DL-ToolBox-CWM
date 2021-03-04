@@ -56,7 +56,7 @@ Anaconda (recommended)
 - PyTorch
 
   ```sh
-pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cu110/torch_nightly.html
+  pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cu110/torch_nightly.html
   ```
 
   or
