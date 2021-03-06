@@ -7,3 +7,8 @@
 | DL_Demo  | https://pan.baidu.com/s/1JXjfSdtfrVMym3sy-hk8cg | 2n44 |
 |   ...    |                       ...                       | ...  |
 
+## Contact
+
+This repository is currently maintained by Weiming Chen.
+
+If you have some other method need to be supported, contact me through Email: wm_chen@yeah.net

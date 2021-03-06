@@ -82,6 +82,8 @@ The [naming_conventions](https://github.com/Wei-ming-Chen/DL-ToolBox-CWM/blob/ma
 
 Tutorial of [add_new_dataset](https://github.com/Wei-ming-Chen/DL-ToolBox-CWM/blob/main/resource/add_new_dataset.md).
 
+Tutorial of [training](https://github.com/Wei-ming-Chen/DL-ToolBox-CWM/blob/main/resource/train.md).
+
 Tutorial of [config_file](https://github.com/Wei-ming-Chen/DL-ToolBox-CWM/blob/main/resource/config_file.md).
 
 

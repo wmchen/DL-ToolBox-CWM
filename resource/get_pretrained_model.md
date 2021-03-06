@@ -19,3 +19,8 @@ All the pretrained models are pretrained on ImageNet dataset.
 |    ResNeSt269    | https://pan.baidu.com/s/126wbLxDgnEU1Umdt9ZamqQ | 30ac |
 |       ...        |                       ...                       | ...  |
 
+## Contact
+
+This repository is currently maintained by Weiming Chen.
+
+If you have some other method need to be supported, contact me through Email: wm_chen@yeah.net

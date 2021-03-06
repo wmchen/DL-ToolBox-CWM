@@ -4,8 +4,6 @@ Author: Weiming Chen
 
 Email: wm_chen@yeah.net
 
-
-
 ## For config file
 
 The format of config file is '.py', and we highly recommend you to follow the naming convention.
@@ -39,8 +37,6 @@ resnet50_bs-64_e-100_lr-1e-2_lrconfig-cosine_loss-ce_SGD.py
 resnet50_bs-32_e-200_lr-1e-2_loss-ce_Adam.py
 
 ......
-
-
 
 ## Contact
 
