@@ -26,9 +26,9 @@ This project is released under the [Apache 2.0 license](https://github.com/Wei-m
 
 Supported backbones:
 
-- [x] ResNet
-- [x] ResNeXt
-- [x] ResNeSt
+- [x] [ResNet (CVPR 2016)](https://arxiv.org/abs/1512.03385)
+- [x] [ResNeXt (CVPR 2017)](https://arxiv.org/abs/1611.05431)
+- [x] [ResNeSt (ArXiv 2020)](https://arxiv.org/abs/2004.08955)
 
 
 
